@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 2: EDA + Chipotle
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 2: EDA On Sample Data
 
 > Unit 2, Project 2
 
@@ -8,13 +8,18 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Starter Code | Project Prompts and Description | [Here](./chipotle.ipynb) |
+| Starter Code - Chipotle | Project Prompts and Description | [Here](./chipotle.ipynb) |
 | Solution Code | Sample solutions for project questions | [Here](./Solution-Code/chipotle_solutions.ipynb) |
 | Dataset | Chipotle Dataset | [Here](./Data/chipotle.tsv) |
+| Alternative: IMDB | Project Prompts and Description | [Here](./imdb.ipynb) |
+| Dataset | IMDB Dataset | [Here](./data/imdb_1000.csv) |
 
 > Note: Instructors should withold providing project solutions until students have submitted their drafts. In order to do so, avoid forking this repo and instead clone down materials locally, create a new repository in your student org, and upload materials manually.
 
 The Chipotle data set is from "The Upshot" column in The New York Times. It was chosen because the data is familiar, real-world, and relevant to many students. It allows students to analyze [the same dataset studied by a data scientist at The New York Times](https://www.nytimes.com/interactive/2015/02/17/upshot/what-do-people-actually-order-at-chipotle.html).
+
+
+> Instructor Note: As an alternative assignment, we have also provided an IMDB dataset and prompt. The prompt lists all of the questions and queries students will be expected to answer, following the same grading rubric as this assignment.
 
 ---
 
