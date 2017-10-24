@@ -9,10 +9,10 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Option 1: Chipotle Starter Code | Project Prompts and Description | [Here](./chipotle.ipynb) |
-| Option 1: Chipotle Solution Code | Sample solutions for project questions | [Here](./Solution-Code/chipotle_solutions.ipynb) |
+| Option 1: Chipotle Solution Code | Sample solutions for project questions | [Here](./solution-code/chipotle_solutions.ipynb) |
 | Option 1: Chipotle Dataset | Dataset File | [Here](./Data/chipotle.tsv) |
 | Option 2: IMDB Starter Code | Project Prompts and Description | [Here](./imdb.ipynb) |
-| Option 2: IMDB Solution Code | Sample solutions for project questions | [Here](./Solution-Code/imdb_solutions.ipynb) |
+| Option 2: IMDB Solution Code | Sample solutions for project questions | [Here](./solution-code/imdb_solutions.ipynb) |
 | Option 2: IMDB Dataset | IMDB Dataset | [Here](./data/imdb_1000.csv) |
 
 > Note: Instructors should withold providing project solutions until students have submitted their drafts. In order to do so, avoid forking this repo and instead clone down materials locally, create a new repository in your student org, and upload materials manually.
