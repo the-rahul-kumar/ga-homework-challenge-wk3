@@ -8,39 +8,47 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Starter Code - Chipotle | Project Prompts and Description | [Here](./chipotle.ipynb) |
-| Solution Code | Sample solutions for project questions | [Here](./Solution-Code/chipotle_solutions.ipynb) |
-| Dataset | Chipotle Dataset | [Here](./Data/chipotle.tsv) |
-| Alternative: IMDB | Project Prompts and Description | [Here](./imdb.ipynb) |
-| Dataset | IMDB Dataset | [Here](./data/imdb_1000.csv) |
+| Option 1: Chipotle Starter Code | Project Prompts and Description | [Here](./chipotle.ipynb) |
+| Option 1: Chipotle Solution Code | Sample solutions for project questions | [Here](./Solution-Code/chipotle_solutions.ipynb) |
+| Option 1: Chipotle Dataset | Dataset File | [Here](./Data/chipotle.tsv) |
+| Option 2: IMDB Starter Code | Project Prompts and Description | [Here](./imdb.ipynb) |
+| Option 2: IMDB Solution Code | Sample solutions for project questions | [Here](./Solution-Code/imdb_solutions.ipynb) |
+| Option 2: IMDB Dataset | IMDB Dataset | [Here](./data/imdb_1000.csv) |
 
 > Note: Instructors should withold providing project solutions until students have submitted their drafts. In order to do so, avoid forking this repo and instead clone down materials locally, create a new repository in your student org, and upload materials manually.
 
-The Chipotle data set is from "The Upshot" column in The New York Times. It was chosen because the data is familiar, real-world, and relevant to many students. It allows students to analyze [the same dataset studied by a data scientist at The New York Times](https://www.nytimes.com/interactive/2015/02/17/upshot/what-do-people-actually-order-at-chipotle.html).
+For project two, we have provided two project options:
 
-
-> Instructor Note: As an alternative assignment, we have also provided an IMDB dataset and prompt. The prompt lists all of the questions and queries students will be expected to answer, following the same grading rubric as this assignment.
-
----
-
-## Project Objective
-
-For project two, you will complete a serious of exercises exploring [order data from Chipotle](https://github.com/TheUpshot/chipotle), compliments of The New York Times's "The Upshot."
-
-For these exercises, you will be conducting basic exploratory data analysis on Chipotle's order data, looking to answer such questions as: 
+### Option 1
+For this option, students will conduct a basic exploratory data analysis on Chipotle's order data, looking to answer such questions as: 
   - How many orders are being made?
   - What is the average price per order?
   - How many different ingredients? 
-  
-This process will help you practice your data analysis skills while becoming comfortable with Python (Pandas not required).
+
+The Chipotle data set is from "The Upshot" column in The New York Times. It was chosen because the data is familiar, real-world, and relevant to many students. It allows students to analyze [the same dataset studied by a data scientist at The New York Times](https://www.nytimes.com/interactive/2015/02/17/upshot/what-do-people-actually-order-at-chipotle.html).
+
+### Option 2
+For this option, students will complete a serious of exercises exploring [the top-rated movies on IMDB](./data/imdb_1000.csv), an online database of film info and reviews.
+ 
+In these exercises, students will be looking to answer such questions as: 
+- What is the average rating per genre?
+- How many different actors are in a movie?
+
+The IMDB dataset is a series of scraped data from the [Internet Movie Database website](www.imdb.com) that describes top ranking movies, including title, data, duration, content rating, headlining actors, and ranking.
+
+---
+
+## Project Objectives
+
+For project two, you will complete a serious of exercises exploring either [order data from Chipotle](https://github.com/TheUpshot/chipotle), or [the top-rated movies on IMDB](./data/imdb_1000.csv).
+
+For these exercises, you will be conducting basic exploratory data analysis. This process will help you practice your data analysis skills while becoming comfortable with Python (Pandas not required).
 
 ---
 
 ## Project Requirements
 
-In a Jupyter Notebook, create working solutions for all of the questions above.
-
-Your notebook should include:
+In a Jupyter Notebook, create working solutions for all of the relevant questions. Your notebook should include:
 
 1. Text for each question, copy and pasted from this file (preferably in markdown).
 2. A working solution to each problem.
