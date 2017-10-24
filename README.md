@@ -34,7 +34,7 @@ In these exercises, students will be looking to answer such questions as:
 - What is the average rating per genre?
 - How many different actors are in a movie?
 
-The IMDB dataset is a series of scraped data from the [Internet Movie Database website](www.imdb.com) that describes top ranking movies, including title, data, duration, content rating, headlining actors, and ranking.
+The IMDB dataset is a series of scraped data from the [Internet Movie Database website](https://www.imdb.com) that describes top ranking movies, including title, data, duration, content rating, headlining actors, and ranking.
 
 ---
 
