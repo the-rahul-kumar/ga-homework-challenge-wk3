@@ -28,7 +28,7 @@ For this option, students will conduct a basic exploratory data analysis on Chip
 The Chipotle data set is from "The Upshot" column in The New York Times. It was chosen because the data is familiar, real-world, and relevant to many students. It allows students to analyze [the same dataset studied by a data scientist at The New York Times](https://www.nytimes.com/interactive/2015/02/17/upshot/what-do-people-actually-order-at-chipotle.html).
 
 ### Option 2
-For this option, students will complete a serious of exercises exploring [the top-rated movies on IMDB](./data/imdb_1000.csv), an online database of film info and reviews.
+For this option, students will complete a series of exercises exploring [the top-rated movies on IMDB](./data/imdb_1000.csv), an online database of film info and reviews.
  
 In these exercises, students will be looking to answer such questions as: 
 - What is the average rating per genre?
@@ -40,7 +40,7 @@ The IMDB dataset is a series of scraped data from the [Internet Movie Database w
 
 ## Project Objectives
 
-For project two, you will complete a serious of exercises exploring either [order data from Chipotle](https://github.com/TheUpshot/chipotle), or [the top-rated movies on IMDB](./data/imdb_1000.csv).
+For project two, you will complete a series of exercises exploring either [order data from Chipotle](https://github.com/TheUpshot/chipotle), or [the top-rated movies on IMDB](./data/imdb_1000.csv).
 
 For these exercises, you will be conducting basic exploratory data analysis. This process will help you practice your data analysis skills while becoming comfortable with Python (Pandas not required).
 
