@@ -48,7 +48,7 @@ For these exercises, you will be conducting basic exploratory data analysis. Thi
 
 ## Project Requirements
 
-In a Jupyter Notebook, create working solutions for all of the **required** questions. Your notebook should include:
+In a Jupyter Notebook, create working solutions for all of the **required** questions for the Option you've chosen. Your notebook should include:
 
 1. Text for each question, copy and pasted from the starter-code provided.
 2. A working solution to each problem.
@@ -56,7 +56,7 @@ In a Jupyter Notebook, create working solutions for all of the **required** ques
 3. Comments for all of your code.
    - In your comments, describe any assumptions you made in order to solve these problems.
 
-4. **Optional**: After completing the required portions, try your hand at the **bonus** sections for some additional challenges!
+4. **Optional**: After completing the required portions, try your hand at the other option or complete the **bonus** sections for an additional challenge!
 
 
 ---
