@@ -6,43 +6,47 @@
 
 ## Materials We Provide
 
-| Topic | Description | Link |
+| Item | Description | Link |
 | --- | --- | --- |
-| Option 1: Chipotle Starter Code | Project Prompts and Description | [Here](./chipotle.ipynb) |
-| Option 1: Chipotle Solution Code | Sample solutions for project questions | [Here](https://git.generalassemb.ly/data-part-time/unit-project-solutions/blob/master/project-2/chipotle_solutions.ipynb) |
-| Option 1: Chipotle Dataset | Dataset File | [Here](./Data/chipotle.tsv) |
-| Option 2: IMDB Starter Code | Project Prompts and Description | [Here](./imdb.ipynb) |
-| Option 2: IMDB Solution Code | Sample solutions for project questions | [Here](https://git.generalassemb.ly/data-part-time/unit-project-solutions/blob/master/project-2/imdb_solutions.ipynb) |
-| Option 2: IMDB Dataset | IMDB Dataset | [Here](./data/imdb_1000.csv) |
+| Option 1: IMDB Starter Code | Project Prompts and Description | [Here](./imdb.ipynb) |
+| Option 1: IMDB Dataset | IMDB Dataset | [Here](./data/imdb_1000.csv) |
+| Option 1: IMDB Solution Code | Sample solutions for project questions (Instructors Only) | [Here](https://git.generalassemb.ly/data-part-time/unit-project-solutions/blob/master/project-2/imdb_solutions.ipynb) |
+| --- | --- | --- |
+| Option 2: Chipotle Starter Code | Project Prompts and Description | [Here](./chipotle.ipynb) |
+| Option 2: Chipotle Dataset | Dataset File | [Here](./Data/chipotle.tsv) |
+| Option 2: Chipotle Solution Code | Sample solutions for project questions (Instructors Only) | [Here](https://git.generalassemb.ly/data-part-time/unit-project-solutions/blob/master/project-2/chipotle_solutions.ipynb) |
 
-> Note: Instructors should withold providing project solutions until students have submitted their drafts. In order to do so, avoid forking this repo and instead clone down materials locally, create a new repository in your student org, and upload materials manually.
+> Note: Instructors should withold providing project solutions until students have submitted their drafts. 
 
-For project two, we have provided two project options:
+--
 
-### Option 1
-For this option, students will conduct a basic exploratory data analysis on Chipotle's order data, looking to answer such questions as: 
+## Project Objectives
+For this project, you will be conducting basic exploratory data analysis, practicing your data analysis skills while becoming comfortable with Python (Pandas not required).
+
+For this project, we have provided **two options**. Students should choose **one** of the following options, then complete all of the **required** sections for the option they've chosen:
+
+
+### Option 1: Best for New Programmers
+Using your new python skills, complete a series of guided prompts exploring [the top-rated movies on IMDB](./data/imdb_1000.csv). IMDB stands for "the Internet Movie Database," an online collection of film information and reviews.
+ 
+In these exercises, students will be looking to answer such questions as: 
+
+- What is the average rating per genre?
+- How many different actors are in a movie?
+
+The IMDB dataset provided is created from data scraped from the [Internet Movie Database website](https://www.imdb.com. The dataset describes top ranking movies, including: title, data, duration, content rating, headlining actors, and ranking.
+
+
+### Option 2: Best for Intermediate Programmers
+Using python, conduct some exploratory data analysis on Chipotle's order data. You will be looking to answer such questions as: 
+
   - How many orders are being made?
   - What is the average price per order?
   - How many different ingredients? 
 
-The Chipotle data set is from "The Upshot" column in The New York Times. It was chosen because the data is familiar, real-world, and relevant to many students. It allows students to analyze [the same dataset studied by a data scientist at The New York Times](https://www.nytimes.com/interactive/2015/02/17/upshot/what-do-people-actually-order-at-chipotle.html).
+The Chipotle data set is taken from "The Upshot" column in The New York Times. It was chosen because the data is from a familiar source representing real world consumer transaction data - plus their guacamole is delicious. 
 
-### Option 2
-For this option, students will complete a series of exercises exploring [the top-rated movies on IMDB](./data/imdb_1000.csv), an online database of film info and reviews.
- 
-In these exercises, students will be looking to answer such questions as: 
-- What is the average rating per genre?
-- How many different actors are in a movie?
-
-The IMDB dataset is a series of scraped data from the [Internet Movie Database website](https://www.imdb.com) that describes top ranking movies, including title, data, duration, content rating, headlining actors, and ranking.
-
----
-
-## Project Objectives
-
-For project two, you will complete a series of exercises exploring either [order data from Chipotle](https://github.com/TheUpshot/chipotle), or [the top-rated movies on IMDB](./data/imdb_1000.csv).
-
-For these exercises, you will be conducting basic exploratory data analysis. This process will help you practice your data analysis skills while becoming comfortable with Python (Pandas not required).
+This dataset was analyzed in-depth by [data scientists from the New York Times](https://www.nytimes.com/interactive/2015/02/17/upshot/what-do-people-actually-order-at-chipotle.html). We have modified our questions based on their analysis, but we encourage students **not** to review their analysis until **after** they have made their own attempt.
 
 ---
 
